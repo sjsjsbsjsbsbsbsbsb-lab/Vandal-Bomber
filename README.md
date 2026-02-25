@@ -1,7 +1,7 @@
 # Vandal-Bomber
 
 
-![binary](https://media.giphy.com/media/l41lY6t7U3c6G8k6A/giphy.gif)
+![binary](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/vandal-cyber.gif)
 
 hello Im vandal 
 
