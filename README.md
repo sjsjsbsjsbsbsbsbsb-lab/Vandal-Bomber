@@ -1,6 +1,7 @@
 # Vandal-Bomber
 
 
+![binary](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
 
 The power
 
