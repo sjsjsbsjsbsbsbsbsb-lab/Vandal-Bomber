@@ -1,8 +1,7 @@
 # Vandal-Bomber
 
 
-![binary](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
-
+![binary](https://media.giphy.com/media/3o7aD2saalBww)
 The power
 
 hello Im vandal 
