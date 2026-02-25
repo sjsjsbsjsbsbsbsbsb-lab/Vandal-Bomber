@@ -1,8 +1,6 @@
 # Vandal-Bomber
 
 
-![binary](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/vandal-cyber.gif)
-
 hello Im vandal 
 
 run 👇
