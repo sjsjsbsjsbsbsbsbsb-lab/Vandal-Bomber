@@ -1,9 +1,10 @@
 # Vandal-Bomber
 
+My eitaa -> @Vandal
 
-hello Im vandal 
+My telegram -> @Ckaizen
 
-run 👇
+# run 
 
 pkg install git
 
@@ -14,9 +15,3 @@ git clone https://github.com/sjsjsbsjsbsbsbsbsb-lab/Vandal-Bomber
 cd Vandal-Bomber
 
 python main.py
-
-talk to me ->
-
-eitaa - @SEFFAT
-
-TELEGRAM - @Ckaizen
